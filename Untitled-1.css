@@ -1,0 +1,24 @@
+
+/*
+Style an element based on its element (<p></p>)
+*/
+p {
+    font-size: 72px;
+    font-family: 'Pacifico', cursive;
+    color: orange;
+}
+
+/*
+Style an element based on its class (testeroo)
+*/
+.testeroo {
+  color: red
+}
+
+
+/*
+Style an element based on its id (yolo)
+*/
+#yolo { 
+    color: yellow;
+}
